@@ -28,13 +28,6 @@ To install the project, follow these steps:
 ```bash
 git clone https://github.com/Israelshecktar/coffeemachine.git
 ```
-
-- Navigate to the project directory using this command:
-
-```bash
-cd coffee-machine
-```
-
 - Run the main script using this command:
 
 ```bash
