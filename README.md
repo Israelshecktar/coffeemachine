@@ -75,10 +75,6 @@ Here is your latte. Enjoy!
 
 You can repeat the process until you enter "off" to turn off the machine.
 
-Here is a screenshot of the project in action:
-
-![Coffee Machine Screenshot](^3^)
-
 ## Contributing
 
 This project is open for contributions. If you want to contribute, you can:
