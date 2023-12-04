@@ -1,4 +1,3 @@
-```markdown
 # Coffee Machine
 
 A Python project that simulates a coffee machine and allows users to order different types of coffee.
@@ -102,5 +101,4 @@ You can also report any issues or suggest new features by creating an issue on G
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](^4^) file for more details.
-```
 
